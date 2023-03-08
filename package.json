@@ -1,0 +1,24 @@
+{
+  "name": "gh-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "discord.js": "^14.7.1",
+    "nodemon": "^2.0.21",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "@octokit/core": "^4.2.0",
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.14"
+  },
+  "type": "module"
+}

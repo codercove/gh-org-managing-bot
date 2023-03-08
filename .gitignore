@@ -1,0 +1,9 @@
+#Private files
+.env
+
+#Dependencies Folder
+node_modules
+
+#Unwanted Files
+package-lock.json
+robot.txt
